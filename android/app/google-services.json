@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574151536931",
+    "project_id": "chatappsayyaf",
+    "storage_bucket": "chatappsayyaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574151536931:android:2728257cf2bd199fed5c96",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_sayyaf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8elSt1r3eB8iEy0UBFS4YQOgOAEfLlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
